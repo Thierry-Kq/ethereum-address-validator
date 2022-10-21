@@ -7,7 +7,7 @@
     // See LICENSE for license information.
     //
 
-    namespace PsychoB\Ethereum;
+    namespace Kqss\Ethereum;
 
     use kornrunner\Keccak;
 
